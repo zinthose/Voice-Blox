@@ -8,7 +8,7 @@ This is my attempt to adding voice chat support to Minecraft.  I'm going to _TRY
 
 ### TODO
 
-- Plan Features
+- ~~Plan Features~~
 - Determine if Teamspeak and Mumble can be implemented in Java and is viable for implementation. 
 
 ### Planned Features
